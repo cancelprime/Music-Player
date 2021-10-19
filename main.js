@@ -27,16 +27,16 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "first song",
+     name: "Aashiq Banaya Aapne",
      path: "1.mp3",
      img: "img1.jpg",
-     singer: "1"
+     singer: "Himesh Reshammiya"
    },
    {
-     name: "second song",
+     name: "Amay dio call",
      path: "2.mp3",
      img: "img2.jpg",
-     singer: "2"
+     singer: "Prottoy Heron"
    },
    {
      name: "third song",
